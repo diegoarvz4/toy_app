@@ -1,24 +1,35 @@
-# README
+# Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Introduction
 
-Things you may want to cover:
+This is an introductory app [tutorial](https://www.railstutorial.org/book/toy_app) for learning Rails.  
 
-* Ruby version
+## Skills demonstrated to achieve the project
 
-* System dependencies
+Ruby
 
-* Configuration
+Ruby On Rails
 
-* Database creation
+Classes
 
-* Database initialization
+Inheritance
 
-* How to run the test suite
+Models
 
-* Services (job queues, cache servers, search engines, etc.)
+Controllers
 
-* Deployment instructions
+Views
 
-* ...
+REST
+
+
+
+## Information
+
+* Ruby version : 5.1.6
+
+* [Live version](https://sleepy-bayou-65505.herokuapp.com/users)
+
+## Contributors
+
+[DiegoArvz](https://github.com/diegoarvz4)
